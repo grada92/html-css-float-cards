@@ -65,10 +65,11 @@ header > p {
    color: aliceblue;;
    height: 150px;
   }
-
+/* FLOAT LEFT */
 .float-left {
  float: left;
 }
+/* /FLOAT LEFT */
 
 /* CONTAINER2 */
 .container2 {
