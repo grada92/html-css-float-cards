@@ -28,8 +28,31 @@ header > p {
 
 .float-left {
     background-color: rgb(61, 12, 12);
+
     margin: 50px 100px;
     float: left;
-    height: 200px;
-    width: 350px;
+   
 }
+
+.clearfix::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+
+
+.clearfix > div {
+    display: inline-block;
+    margin: 50px 80px;
+    width: 400px;
+    height: 200px;
+}
+    
+}
+ 
+.testo {
+    float: right;
+    display: inline-block;
+}
+
