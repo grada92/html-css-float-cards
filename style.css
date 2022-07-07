@@ -12,10 +12,16 @@ body {
 }
 
 header {
-    height: 100px;
+    width: 100%;
     text-align: center;
-    line-height: 80px;
+    margin-top: 20px;
     color: hsl(339deg 78% 55%)
     ;
     font-family: 'Fredoka One', cursive;
+}
+
+header > p {
+    color: black;
+    margin: 40px 140px;
+    
 }
