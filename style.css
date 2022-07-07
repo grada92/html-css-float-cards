@@ -36,4 +36,11 @@ header > p {
     clear: both;
 }
 
+.container {
+    margin: 40px 140px;
+}
+.container > div {
+    border:1px red;
+    padding: 50px 50px;
+}
 
