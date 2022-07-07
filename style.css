@@ -28,6 +28,8 @@ header > p {
 
 .float-left {
     float: left;
+    background-color: rgb(61, 12, 12);
+
 }
 
 .clearfix::after{
@@ -37,10 +39,11 @@ header > p {
 }
 
 .container {
-    margin: 40px 140px;
+    margin: 40px 200px;
 }
 .container > div {
     border:1px red;
     padding: 50px 50px;
 }
+ 
 
