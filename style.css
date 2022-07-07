@@ -70,14 +70,16 @@ header > p {
  float: left;
 }
 
+/* CONTAINER2 */
 .container2 {
     margin: 50px 140px;
 }
+/* /CONTAINER2*/
 
 /* PARAGRAFO */
 .paragrafo {
     color:#5cadce ;
-    margin-top: 40px;
+    margin-top: 10px;
     
 }
 /* /PARAGRAFO */
@@ -91,10 +93,13 @@ h3{
 
 /* H2 */
 h2 {
-    margin-top: 30px;
+    margin-top: 10px;
 }
 /* /H2 */
 
+/* IMG */
 img {
     width: 150px;
 }
+
+/* /IMG */
