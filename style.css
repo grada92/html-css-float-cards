@@ -75,7 +75,7 @@ header > p {
 }
 
 /* PARAGRAFO */
-#paragrafo {
+.paragrafo {
     color:#5cadce ;
     margin-top: 40px;
     
