@@ -27,23 +27,9 @@ header > p {
 }
 
 .float-left {
-    float: left;
     background-color: rgb(61, 12, 12);
-
+    margin: 50px 100px;
+    float: left;
+    height: 200px;
+    width: 350px;
 }
-
-.clearfix::after{
-    content: "";
-    display: table;
-    clear: both;
-}
-
-.container {
-    margin: 40px 200px;
-}
-.container > div {
-    border:1px red;
-    padding: 50px 50px;
-}
- 
-
