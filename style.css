@@ -25,3 +25,13 @@ header > p {
     margin: 40px 140px;
     
 }
+
+.float-left {
+    float: left;
+}
+
+.clearfix {
+    content: "";
+    display: table;
+    clear: both;
+}
