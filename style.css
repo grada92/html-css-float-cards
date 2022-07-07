@@ -45,9 +45,9 @@ header > p {
    
     width: calc(100% / 3 - 20px);
    background-color: rgb(2, 2, 2);
-   margin: 0 10px;
+   margin: 0px 10px;
    color: aliceblue;;
-
+   height: 200px;
   }
 
 .float-left {
