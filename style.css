@@ -63,7 +63,7 @@ header > p {
    background-color: rgb(2, 2, 2);
    margin: 0px 10px;
    color: aliceblue;;
-   height: 200px;
+   height: 150px;
   }
 
 .float-left {
@@ -94,3 +94,7 @@ h2 {
     margin-top: 30px;
 }
 /* /H2 */
+
+img {
+    width: 150px;
+}
