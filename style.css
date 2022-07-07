@@ -5,3 +5,17 @@
     padding: 0px;
     box-sizing: border-box;
 }
+
+body {
+    background-color: white;
+    
+}
+
+header {
+    height: 100px;
+    text-align: center;
+    line-height: 80px;
+    color: hsl(339deg 78% 55%)
+    ;
+    font-family: 'Fredoka One', cursive;
+}
