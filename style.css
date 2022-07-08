@@ -35,7 +35,7 @@ header > p {
 
 .container {
 
-    margin: 0 140px;
+    margin: 5px 140px;
 }
 
 /* /CONTAINER */
@@ -71,11 +71,7 @@ header > p {
 }
 /* /FLOAT LEFT */
 
-/* CONTAINER2 */
-.container2 {
-    margin: 50px 140px;
-}
-/* /CONTAINER2*/
+
 
 /* PARAGRAFO */
 .paragrafo {
